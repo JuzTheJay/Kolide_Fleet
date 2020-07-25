@@ -11,4 +11,4 @@ Selecting "Live Query" will allow us to add new queries.
 
 Example Query and Result:
 
-![image](https://user-images.githubusercontent.com/28971047/88457817-1d5c8e80-cebc-11ea-8ef8-bfca9bc0e2be.png)
+![image](https://user-images.githubusercontent.com/28971047/88458354-0455dc80-cec0-11ea-9b51-1c85dd06e529.png)
